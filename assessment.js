@@ -1,6 +1,6 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
-// CODE HERE
+// CODE HERE :
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
